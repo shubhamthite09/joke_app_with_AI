@@ -1,0 +1,42 @@
+# joke_app_with_AI
+Sure, here's a sample README file for a fictional AI-powered joke app:
+
+---
+
+Welcome to joke_app_with_AI, where the laughs never end! Utilizing cutting-edge artificial intelligence, JokeMaster generates jokes, puns, and witty one-liners to keep you and your friends entertained for hours. Whether you're looking for a quick chuckle or something to brighten up a dull party, JokeMaster 3000 has got you covered!
+
+## Features
+
+- **AI-Powered Jokes**: State-of-the-art AI that learns from your preferences to serve up jokes tailored to your sense of humor.
+
+### Backend 
+
+Visit [backend](https://sawfish-cap.cyclic.cloud/) to enjoy jokes right in your web browser.
+Routes 
+      **/key** give info about in query as **que**
+
+### Web Version
+
+Visit [www.joke_app_with_AI.com](https://exquisite-queijadas-c94a93.netlify.app/) to enjoy jokes right in your web browser.
+
+## How to Use
+
+1. **Choose Your Category**: Select your preferred joke category or let the AI choose for you based on your history.
+2. **Rate the Jokes**: Love a joke? Hate it? Rate it so the AI can learn more about your preferences.
+
+
+## Support
+
+Experiencing issues? Contact our support team at shubhamthite09@gmail.com, or visit our [FAQ](link_to_faq) for immediate assistance.
+
+## License
+
+JokeMaster 3000 is released under the MIT License. See the [LICENSE.md](link_to_license) file for more details.
+
+## Join the Fun!
+
+Ready to embark on a laughter-filled journey with joke_app_with_AI
+
+---
+
+Please customize the above content as needed, including adding actual URLs and any other specific information about your app.
