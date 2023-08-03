@@ -1,5 +1,4 @@
 # joke_app_with_AI
-Sure, here's a sample README file for a fictional AI-powered joke app:
 
 ---
 
