@@ -2,7 +2,7 @@
 
 ---
 
-Welcome to joke_app_with_AI, where the laughs never end! Utilizing cutting-edge artificial intelligence, JokeMaster generates jokes, puns, and witty one-liners to keep you and your friends entertained for hours. Whether you're looking for a quick chuckle or something to brighten up a dull party, JokeMaster 3000 has got you covered!
+Welcome to joke_app_with_AI, where the laughs never end! Utilizing cutting-edge artificial intelligence, joke_app_with_AI generates jokes, puns, and witty one-liners to keep you and your friends entertained for hours. Whether you're looking for a quick chuckle or something to brighten up a dull party, joke_app_with_AI has got you covered!
 
 ## Features
 
