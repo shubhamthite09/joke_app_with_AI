@@ -28,9 +28,6 @@ Visit [www.joke_app_with_AI.com](https://exquisite-queijadas-c94a93.netlify.app/
 
 Experiencing issues? Contact our support team at shubhamthite09@gmail.com, or visit our [FAQ](link_to_faq) for immediate assistance.
 
-## License
-
-JokeMaster 3000 is released under the MIT License. See the [LICENSE.md](link_to_license) file for more details.
 
 ## Join the Fun!
 
